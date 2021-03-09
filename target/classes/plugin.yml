@@ -1,0 +1,7 @@
+name: HaneBroadcast
+version: 1.0-SNAPSHOT
+main: com.github.kanoshow.hanebroadcast.HaneBroadcast
+api-version: 1.13
+
+commands:
+  sp:
